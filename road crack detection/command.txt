@@ -1,0 +1,3 @@
+模型训练
+python train.py --data data/road.yaml --cfg yolov5x_road.yaml --weights weights/yolov5x.pt --img-size 1280 --batch-size 6 --device 2,3
+
